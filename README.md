@@ -17,7 +17,7 @@ cd workshop
 ## 3. Clone the workshop repository
 
 ```bash
-git clone https://github.com/mohtork/cats_vs_dogs_demo.git
+https://github.com/mohtork/cats_vs_dogs_demo.git
 ```
 
 ## 4. Create a new virtual environment
